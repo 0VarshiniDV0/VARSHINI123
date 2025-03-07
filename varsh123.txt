@@ -1,8 +1,10 @@
 #include<stdio.h>
 int main()
 {
-int a=10,b=20,sum;
+int a=10,b=20,sum,sub;
  sum=a+b;
  printf("The sum is:%d",a,b,sum);
+ sub=a-b;
+ printf("The sub is:%d",a,b,sub);
  return 0;
  }
