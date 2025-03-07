@@ -1,10 +1,12 @@
 #include<stdio.h>
 int main()
 {
-int a=10,b=20,sum,sub;
+int a=10,b=20,sum,sub,multi;
  sum=a+b;
  printf("The sum is:%d",a,b,sum);
  sub=a-b;
  printf("The sub is:%d",a,b,sub);
+ multi=a*b;
+ printf("The multi is:%d",a,b,multi);
  return 0;
  }
