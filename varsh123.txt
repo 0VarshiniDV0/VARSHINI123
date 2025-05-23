@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a=10,b=20,sum,sub,multi,divi,module;
+int a=20,b=30,sum,sub,multi,divi,module;
  sum=a+b;
  printf("The sum is:%d",a,b,sum);
  sub=a-b;
