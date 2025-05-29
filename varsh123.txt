@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a=20,b=30,sum,sub,multi,divi,module,power;
+int a=10,b=35,sum,sub,multi,divi,module,power;
  sum=a+b;
  printf("The sum is:%d",a,b,sum);
  sub=a-b;
@@ -16,5 +16,4 @@ int a=20,b=30,sum,sub,multi,divi,module,power;
  printf("the power is :%d,a,b,power);
  return 0;
  }
-
 
